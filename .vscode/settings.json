@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "venv\\Scripts\\python.exe",
+    "appService.defaultWebAppToDeploy": "/subscriptions/e1c94976-ae5e-455a-b053-1efcaa6952ca/resourceGroups/appsvc_windows_centralus/providers/Microsoft.Web/sites/PythonApp0630",
+    "appService.deploySubpath": ""
+}
